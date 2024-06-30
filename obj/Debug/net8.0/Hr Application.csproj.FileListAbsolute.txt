@@ -1,0 +1,30 @@
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\appsettings.json
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\Hr Application.staticwebassets.runtime.json
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\Hr Application.exe
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\Hr Application.deps.json
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\Hr Application.runtimeconfig.json
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\Hr Application.dll
+C:\Users\clare\Desktop\FINals\Hr Application\bin\Debug\net8.0\Hr Application.pdb
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.AssemblyInfoInputs.cache
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.AssemblyInfo.cs
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.csproj.CoreCompileInputs.cache
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.RazorAssemblyInfo.cache
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.RazorAssemblyInfo.cs
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets\msbuild.Hr Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Hr Application.props
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hr Application.props
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hr Application.props
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\scopedcss\bundle\Hr Application.styles.css
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\scopedcss\projectbundle\Hr Application.bundle.scp.css
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.dll
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\refint\Hr Application.dll
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.pdb
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\Hr Application.genruntimeconfig.cache
+C:\Users\clare\Desktop\FINals\Hr Application\obj\Debug\net8.0\ref\Hr Application.dll
